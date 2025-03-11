@@ -17,7 +17,7 @@ const myData = {
     "ASM",
     "HTML",
     "CSS",
-    "Github",
+    "Gith   ub",
     "Linux",
   ],
   profilePicture:
