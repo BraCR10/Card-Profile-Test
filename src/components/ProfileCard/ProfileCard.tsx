@@ -107,16 +107,16 @@ export function ProfileCard({
 
           <div className="profile-card-links">
             <a href={`https://github.com/${githubUsername}`}>
-              <img src={"../../../public/github.svg"} alt="GitHub" />
+              <img src={"https://img.icons8.com/ios-filled/50/github.png"} alt="GitHub" />
             </a>
             <a href={linkedin}>
-              <img src="../../../public/linkedin.svg" alt="LinkedIn" />
+              <img src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="LinkedIn" />
             </a>
             <a href={twitter}>
-              <img src="../../../public/x.svg" alt="X" />
+              <img src="https://img.icons8.com/ios-filled/50/x.png" alt="X" />
             </a>
             <a href={instagram}>
-              <img src="../../../public/instagram.svg" alt="Instagram" />
+              <img src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="Instagram" />
             </a>
           </div>
         </section>
